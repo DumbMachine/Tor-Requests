@@ -1,4 +1,5 @@
 # Tor-Requests
+#### ⭕NOTE: If poeple actually require and use this, then I would love to make this into a Python Library and continue development.
 #### Easy to use Python Script to obtain new IP address for any purpose you like, maybe web srcaping.
 
 ## Installation:
@@ -51,3 +52,8 @@ $ sudo apt install Tor
   something.set_new_ip()
   
   something.checkIP()
+  ```
+## TODO:
+- [X] Windows Support.
+- [ ] Linux Support. {Partial Support available, few changes to be added}
+- [ ] Wrape the Requests Package.
