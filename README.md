@@ -57,3 +57,4 @@ $ sudo apt install Tor
 - [X] Windows Support.
 - [ ] Linux Support. {Partial Support available, few changes to be added}
 - [ ] Wrape the Requests Package.
+- [ ] Add support for using User-defined Proxies.
